@@ -1,7 +1,7 @@
 # H2waterChina
 Addressing water resource constraints for electrolytic hydrogen demand in China
 
-%Copyright (c) 2025 Hongyi Xie(BNU/FDU/NUS), Guo Yang(BNU/NUS)and Yutao Wang(FDU) 
+%Copyright (c) 2025 Hongyi Xie(BNU/FDU/NUS), Yang Guo(BNU/NUS)and Yutao Wang(FDU) 
 %All rights reserved. Contect email:xiehyeco@163.com
 
 File ‘H2waterChina.m‘ contains the main code. 
