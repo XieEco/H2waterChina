@@ -16,4 +16,4 @@ Related inquiries, please contact: xiehyeco@163.com
 We used premise tool (https://github.com/polca/premise) for prospective LCA.
 
 %%% Hydrogen production system %%%
-Optimization codes and results for the electrolytic hydrogen production system are provided in the 'green_hydrogen_production_optimization_model.tgz'. Related inquiries, please contact: yujiewu@princeton.edu
+Optimization codes and results for the electrolytic hydrogen production system are provided in the 'green_hydrogen_production_optimization_model.tgz' or see https://github.com/YujieWu-PublicRepository/green_hydrogen_optimization_model for details. Related inquiries, please contact: yujiewu@princeton.edu
