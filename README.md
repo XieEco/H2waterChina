@@ -1,4 +1,4 @@
-Addressing water resource constraints for electrolytic hydrogen demand in China  
+Xie, H., Wu, Y., Wang, Y. et al. Addressing water resource constraints for electrolytic hydrogen demand in China. Nat Sustain (2026). https://doi.org/10.1038/s41893-026-01894-9 
 
 %Copyright (c) 2025 Hongyi Xie(Fudan University/National University of Singapore), Yujie Wu (Princeton University), Yutao Wang(Fudan University), and Yang Guo(Beijing Normal University/National University of Singapore)  
 
